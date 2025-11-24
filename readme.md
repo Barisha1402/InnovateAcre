@@ -1,4 +1,4 @@
-# 🌿 AgroVITa : Innovation meets farming
+# 🌿 InnovateAcre: Innovation meets farming
 
 Welcome to **AgroVITa**! This repository hosts a full-stack web application, built with a robust Java backend and a dynamic frontend utilizing modern web technologies. While specific functionalities aren't detailed within the repository, the project is designed as a comprehensive solution, likely targeting the agricultural sector given its name, by providing both server-side logic and an interactive user interface.
 
@@ -72,4 +72,5 @@ To set up and run AgroVITa locally, you'll need both **Java (JDK)** and **Node.j
     Alternatively, you can import the project into your IDE (e.g., IntelliJ IDEA, Eclipse) and run the main Spring Boot application class directly.
 
     Once the backend is running, the frontend will likely be accessible via a web browser at a specific port (e.g., `http://localhost:8080`), depending on your Spring Boot configuration.
+
 
