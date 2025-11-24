@@ -48,7 +48,7 @@ To set up and run AgroVITa locally, you'll need both **Java (JDK)** and **Node.j
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Anubhav2912/AgroVITa.git](https://github.com/Anubhav2912/AgroVITa.git)
+    git clone [https://github.com/Anubhav2912/AgroVITa.git](https://github.com/Barisha1402/Agrovita.git)
     cd AgroVITa
     ```
 2.  **Install Frontend Dependencies:**
@@ -72,3 +72,4 @@ To set up and run AgroVITa locally, you'll need both **Java (JDK)** and **Node.j
     Alternatively, you can import the project into your IDE (e.g., IntelliJ IDEA, Eclipse) and run the main Spring Boot application class directly.
 
     Once the backend is running, the frontend will likely be accessible via a web browser at a specific port (e.g., `http://localhost:8080`), depending on your Spring Boot configuration.
+
