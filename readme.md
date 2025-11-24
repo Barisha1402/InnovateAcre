@@ -1,6 +1,6 @@
 # 🌿 InnovateAcre: Innovation meets farming
 
-Welcome to **AgroVITa**! This repository hosts a full-stack web application, built with a robust Java backend and a dynamic frontend utilizing modern web technologies. While specific functionalities aren't detailed within the repository, the project is designed as a comprehensive solution, likely targeting the agricultural sector given its name, by providing both server-side logic and an interactive user interface.
+Welcome to **InnovateAcre**! This repository hosts a full-stack web application, built with a robust Java backend and a dynamic frontend utilizing modern web technologies. While specific functionalities aren't detailed within the repository, the project is designed as a comprehensive solution, likely targeting the agricultural sector given its name, by providing both server-side logic and an interactive user interface.
 
 ---
 
@@ -44,12 +44,12 @@ The project is structured to organize both frontend and backend components:
 
 ### ⚙️ Setup and Run
 
-To set up and run AgroVITa locally, you'll need both **Java (JDK)** and **Node.js** installed on your system.
+To set up and run InnovateAcre locally, you'll need both **Java (JDK)** and **Node.js** installed on your system.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Anubhav2912/AgroVITa.git](https://github.com/Barisha1402/Agrovita.git)
-    cd AgroVITa
+    git clone [https://github.com/Anubhav2912/InnovateAcre.git](https://github.com/Barisha1402/InnovateAcre.git)
+    cd InnovateAcre
     ```
 2.  **Install Frontend Dependencies:**
     Navigate to the project root and install the Node.js packages required for the frontend and Tailwind CSS:
@@ -72,5 +72,6 @@ To set up and run AgroVITa locally, you'll need both **Java (JDK)** and **Node.j
     Alternatively, you can import the project into your IDE (e.g., IntelliJ IDEA, Eclipse) and run the main Spring Boot application class directly.
 
     Once the backend is running, the frontend will likely be accessible via a web browser at a specific port (e.g., `http://localhost:8080`), depending on your Spring Boot configuration.
+
 
 
